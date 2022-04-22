@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edinerik
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning github, react, machine learning
-- 💞️ I’m mot looking to collaborate at the moment
+- 🌱 I’m currently learning github, react, vue, css and machine learning
+- 💞️ I’m not looking to collaborate at the moment
 - 📫 How to reach me ... 
 
 <!---
