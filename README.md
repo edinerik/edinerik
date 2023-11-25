@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edinerik
 - 👀 I’m interested in programming and devops
-- 🌱 I’m currently learning github, terraform, react, vue, css and machine learning
+- 🌱 I’m currently working on an ai project on my spare time using gcp, github, vue, flask, and lanchain/openai
 - 💞️ I’m not looking to collaborate at the moment
 - 📫 How to reach me ... 
 
